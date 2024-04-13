@@ -108,5 +108,10 @@ while isGameFinished == false {
 
 
 print("myau")
+
 var b = 3
+
+
+
+var s = 5
 
